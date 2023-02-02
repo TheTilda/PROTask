@@ -1,0 +1,3 @@
+token = '5838854150:AAEr5jcYfYFIDMpmM6WW0AcBRhFocOI9x1U'
+admin = 5188134424
+
